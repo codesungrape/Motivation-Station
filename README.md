@@ -6,4 +6,4 @@ Use command line
 Developed locally on my computer
 
 
-I would like to build this out into
+I would like to build this out into a fully fucntional website with html and css. 
